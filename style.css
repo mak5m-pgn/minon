@@ -4,11 +4,13 @@
 
 .manage-comunity h2 {
     max-width: 542px;
-    font-size: 32px;
+    font-size: 36px;
+    line-height: 44px;
     text-align: center;
     margin: 0px auto;
     color: #4D4D4D;
     margin-bottom: 8px;
+
 }
 
 .inter {
@@ -23,6 +25,7 @@
 .manage-title {
     max-width: auto;
     font-size: 16px;
+    line-height: 24px;
     text-align: center;
     margin: 0px auto;
     color: #717171;
