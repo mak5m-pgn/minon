@@ -123,3 +123,51 @@ body {
 .signup-btn:hover {
     background-color: #388E3B;
 }
+
+.registres {
+    height: 599px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 96px;
+}
+
+.regi-title-button {
+    margin-left: 144px;
+}
+
+.regi-title {
+    font-size: 64px;
+    color: #4D4D4D;
+    width: 657px;
+}
+
+.regi-title span{
+    color: #4CAF4F;
+}
+
+.regi-text {
+    font-size: 16px;
+    color: #717171;
+    margin-top: 16px;
+}
+
+.regi-btn {
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #4CAF4F;
+    width: 128px;
+    height: 52px;
+    transition: color 0.2s ease;
+    border-radius: 4px;
+    border: none;
+    margin-top: 32px;
+}
+
+.regi-btn:hover {
+    background-color: #388E3B;
+}
+
+.regi-img1 {
+    margin-right: 144px;
+}
