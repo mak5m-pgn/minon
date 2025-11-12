@@ -129,11 +129,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 96px;
 }
 
 .regi-title-button {
     margin-left: 144px;
+    margin-top: 161px;
+    margin-bottom: 161px;
 }
 
 .regi-title {
@@ -170,4 +171,37 @@ body {
 
 .regi-img1 {
     margin-right: 144px;
+    margin-top: 96px;
+    margin-bottom: 96px;
+}
+
+.our-clients {
+    height: 270px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.client-text {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.client-text h2 {
+    font-size: 36px;
+    color: #4D4D4D;
+}
+
+.client-text p {
+    font-size: 16px;
+    color: #717171;
+}
+
+.client-logo {
+    margin-top: 40px;
+}
+
+.client-logo img {
+    margin-left: 136px;
 }
